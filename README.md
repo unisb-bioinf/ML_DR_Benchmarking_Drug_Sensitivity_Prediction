@@ -1,4 +1,4 @@
-# Machine learning algorithms and dimension reduction techniques for drug sensitivity prediction
+# Machine learning and dimension reduction for drug sensitivity prediction
 Code collection for the manuscript "A comprehensive benchmarking of machine learning algorithms and dimensionality reduction methods for drug sensitivity prediction" by Eckhart et al.
 
 Note: An easy-to-use implementation of the minimum-redundancy-maximum-relevance (MRMR) feature selection as introduced by Kwak and Choi (https://www.doi.org/10.1109/72.977291) can be found in the varrank R package (https://cran.r-project.org/web/packages/varrank/index.html).
