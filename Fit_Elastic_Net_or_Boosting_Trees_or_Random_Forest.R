@@ -1,7 +1,7 @@
 # train: data.frame of training data where rownames are cell line names/IDs and columns are features
 # test: data.frame of test data where rownames are cell line names/IDs and columns are features
 # method: name of ML algorithm (either "boosting_trees", "elastic_net", or "random_forest")
-# method_parameters: names list of hyperparameters for the used ML algorithm 
+# method_parameters: named list of hyperparameters for the used ML algorithm 
 #   elastic net: "lambda", "alpha", "standardize_values"
 #   random_forest: "num_trees", "mtry"
 #   boosting_trees: "num_trees", "splits_per_tree", "lambda", "bag_fraction", "distr"
